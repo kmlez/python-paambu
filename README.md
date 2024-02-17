@@ -1,1 +1,1 @@
-# python-paambu
+# python-course
